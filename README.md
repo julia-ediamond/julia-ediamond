@@ -4,7 +4,7 @@ I'm a full-stack developer at a startup [Senter](https://www.senterhq.com/), a r
 - 🔭 I’m currently working with React, Nodejs, AWS. 
 - :cloud: I’m a certified AWS Cloud Practitioner
 - 🌱 I’m currently learning Django
-- 💬 Ask me about career changing and my experience doing a coding bootcamp [GitHub](https://www.inco.org.au/incode)
+- 💬 Ask me about career changing and my experience doing a coding [bootcamp](https://www.inco.org.au/incode)
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I lived in 3 different countries before my move to Australia. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/iulia-sharnina-636226a1/)
